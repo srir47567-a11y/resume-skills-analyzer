@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Python",
+        "category": "Programming",
+        "aliases": ["python", "python3", "python programming"]
+    },
+    {
+        "name": "SQL",
+        "category": "Database",
+        "aliases": ["sql", "structured query language"]
+    },
+    {
+        "name": "Pandas",
+        "category": "Data Analysis",
+        "aliases": ["pandas"]
+    },
+    {
+        "name": "NumPy",
+        "category": "Data Analysis",
+        "aliases": ["numpy"]
+    },
+    {
+        "name": "Matplotlib",
+        "category": "Data Visualization",
+        "aliases": ["matplotlib"]
+    },
+    {
+        "name": "Power BI",
+        "category": "Data Visualization",
+        "aliases": ["power bi", "powerbi"]
+    },
+    {
+        "name": "Flask",
+        "category": "Web Development",
+        "aliases": ["flask"]
+    },
+    {
+        "name": "Django",
+        "category": "Web Development",
+        "aliases": ["django"]
+    },
+    {
+        "name": "Git",
+        "category": "Tools",
+        "aliases": ["git"]
+    },
+    {
+        "name": "GitHub",
+        "category": "Tools",
+        "aliases": ["github", "git hub"]
+    }
+]

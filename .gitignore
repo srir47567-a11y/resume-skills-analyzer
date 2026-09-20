@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+*.pyc
+.venv/
+venv/
+.env
+test.pdf
+test.txt
+sample1.txt
