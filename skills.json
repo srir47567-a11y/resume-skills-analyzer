@@ -5,9 +5,49 @@
         "aliases": ["python", "python3", "python programming"]
     },
     {
+        "name": "Java",
+        "category": "Programming",
+        "aliases": ["java"]
+    },
+    {
+        "name": "C",
+        "category": "Programming",
+        "aliases": ["c programming", "c language"]
+    },
+    {
+        "name": "C++",
+        "category": "Programming",
+        "aliases": ["c++", "cpp"]
+    },
+    {
+        "name": "JavaScript",
+        "category": "Programming",
+        "aliases": ["javascript", "js"]
+    },
+    {
         "name": "SQL",
         "category": "Database",
         "aliases": ["sql", "structured query language"]
+    },
+    {
+        "name": "MySQL",
+        "category": "Database",
+        "aliases": ["mysql"]
+    },
+    {
+        "name": "PostgreSQL",
+        "category": "Database",
+        "aliases": ["postgresql", "postgres"]
+    },
+    {
+        "name": "MongoDB",
+        "category": "Database",
+        "aliases": ["mongodb", "mongo db"]
+    },
+    {
+        "name": "SQLite",
+        "category": "Database",
+        "aliases": ["sqlite"]
     },
     {
         "name": "Pandas",
@@ -20,14 +60,44 @@
         "aliases": ["numpy"]
     },
     {
+        "name": "Excel",
+        "category": "Data Analysis",
+        "aliases": ["excel", "microsoft excel"]
+    },
+    {
         "name": "Matplotlib",
         "category": "Data Visualization",
         "aliases": ["matplotlib"]
     },
     {
+        "name": "Seaborn",
+        "category": "Data Visualization",
+        "aliases": ["seaborn"]
+    },
+    {
         "name": "Power BI",
         "category": "Data Visualization",
         "aliases": ["power bi", "powerbi"]
+    },
+    {
+        "name": "Tableau",
+        "category": "Data Visualization",
+        "aliases": ["tableau"]
+    },
+    {
+        "name": "Scikit-learn",
+        "category": "Machine Learning",
+        "aliases": ["scikit-learn", "scikit learn", "sklearn"]
+    },
+    {
+        "name": "TensorFlow",
+        "category": "Machine Learning",
+        "aliases": ["tensorflow"]
+    },
+    {
+        "name": "PyTorch",
+        "category": "Machine Learning",
+        "aliases": ["pytorch"]
     },
     {
         "name": "Flask",
@@ -40,13 +110,43 @@
         "aliases": ["django"]
     },
     {
+        "name": "HTML",
+        "category": "Web Development",
+        "aliases": ["html", "html5"]
+    },
+    {
+        "name": "CSS",
+        "category": "Web Development",
+        "aliases": ["css", "css3"]
+    },
+    {
+        "name": "React",
+        "category": "Web Development",
+        "aliases": ["react", "reactjs", "react.js"]
+    },
+    {
+        "name": "Node.js",
+        "category": "Web Development",
+        "aliases": ["node.js", "nodejs", "node js"]
+    },
+    {
         "name": "Git",
         "category": "Tools",
-        "aliases": ["git"]
+        "aliases": ["git", "git version control"]
     },
     {
         "name": "GitHub",
         "category": "Tools",
         "aliases": ["github", "git hub"]
+    },
+    {
+        "name": "VS Code",
+        "category": "Tools",
+        "aliases": ["vs code", "visual studio code"]
+    },
+    {
+        "name": "Jupyter Notebook",
+        "category": "Tools",
+        "aliases": ["jupyter notebook", "jupyter"]
     }
 ]

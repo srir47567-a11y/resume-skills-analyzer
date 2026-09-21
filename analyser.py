@@ -1,4 +1,5 @@
 from resume_reader import read_resume
+import re
 
 import json
 def load_skills():
@@ -17,7 +18,9 @@ def analyze_resume(file_name,all_skills):
     
     for skill in all_skills:
         for i in skill['aliases']:
-            if i.lower() in text.lower(): 
+            pattern=rf"\b{re.escape(i)}\b"
+
+            if re.search(pattern,text,re.IGNORECASE): 
                 skills.append(skill)
                 break
     return skills 
